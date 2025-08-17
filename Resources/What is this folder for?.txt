@@ -1,0 +1,3 @@
+This folder is designed to make setup faster and easier.
+Instead of manually downloading and configuring files from GitHub,  a simple .bat script automatically fetches the required resources (e.g., SwiftTweak.pow)  and imports them directly to your computer.
+It’s a quick, hassle-free way to get everything ready without doing it all by hand.    
